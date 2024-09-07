@@ -1,5 +1,5 @@
 # Python para Data Science
-Autores: Julio Miranda 2x campeão mundial
+Autores: Julio Miranda
 
 Versão: 1
 
